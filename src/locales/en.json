@@ -1,0 +1,13 @@
+{
+	"This is a test error": "This is a test error",
+	"test": {
+		"Internal_Server_Error": "internal server error ",
+		"password_min_length": "test.password_min_length"
+	},
+	"حدث خطأ داخلي في الخادم": "حدث خطأ داخلي في الخادم",
+	"\"email\" is required": "\"email\" is required",
+	"Password is required": "Password is required",
+	"\"name\" is not allowed": "\"name\" is not allowed",
+	"Password must be at least 6 characters long": "Password must be at least 6 characters long",
+	"internal server error ": "internal server error "
+}
